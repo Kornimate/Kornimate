@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Máté!;I'm+a+.NET+Developer...;I'm+also+Machine+Learning+Engineer;and+I'm+a+proud+Hungarian+🇵🇰+currently+in+Denmark)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/
-115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -13,7 +10,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,atom,sublime,ubuntu,visualstudio,windows,cpp,c,cs,d3,dotnet,fastapi,flask,gitlab,graphql,jquery,npm,powershell,css,discord,docker,postgres,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,materialui,iis,mongodb,mysql,sqlite,nodejs,postman,py,react,redux,bootstrap,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,azure,atom,sublime,ubuntu,visualstudio,windows,cpp,c,cs,d3,dotnet,fastapi,flask,gitlab,graphql,jquery,npm,powershell,css,docker,postgres,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,materialui,mongodb,mysql,sqlite,nodejs,postman,py,react,redux,bootstrap,vscode,kubernetes&perline=15" />
   </a>
 </p>
 
