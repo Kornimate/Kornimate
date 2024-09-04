@@ -1,6 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Máté!;I'm+a+.NET+Developer...;I'm+also+Machine+Learning+Engineer;and+I'm+a+proud+Hungarian+🇵🇰+currently+in+Denmark)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Máté!;I'm+a+.NET+Developer...;I'm+also+AI+;and+I'm+a+proud+Hungarian+🇵🇰+currently+in+Denmark)](https://git.io/typing-svg)
+
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -41,12 +45,18 @@
 </div>
 
 <!--icons and links-->
-<p align="center" stlye="display: inline">
+<div align="center" stlye="display: inline">
 
 <a href="https://www.linkedin.com/in/kornidesz-máté-833633289/?originalSubdomain=hu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" style="display:inline-block" /></a>
 
 <a href="mailto:kornideszofficial@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=1" alt="gmail" height="50" width="50" style="display:inline-block" /></a>
 
-</p>
+</div>
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=kornimate&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
