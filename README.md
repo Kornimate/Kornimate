@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Máté!;I'm+a+.NET+Developer...;I'm+also+Machine+Learning+Engineer;and+I'm+a+proud+Hungarian+🇵🇰+currently+in+Denmark)](https://git.io/typing-svg)
-</p>
 
 <div id="user-content-toc">
   <ul align="center">
