@@ -45,11 +45,11 @@
 </div>
 
 <!--icons and links-->
-<div align="center" stlye="display: inline">
+<div align="center" stlye=" display:flex; align-items:center;">
 
-<a href="https://www.linkedin.com/in/kornidesz-máté-833633289/?originalSubdomain=hu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" style="display:inline-block" /></a>
+<a href="https://www.linkedin.com/in/kornidesz-máté-833633289/?originalSubdomain=hu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
-<a href="mailto:kornideszofficial@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=1" alt="gmail" height="50" width="50" style="display:inline-block" /></a>
+<a href="mailto:kornideszofficial@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=1" alt="gmail" height="50" width="50" /></a>
 
 </div>
 
