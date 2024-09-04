@@ -47,4 +47,6 @@
 
 <a href="mailto:kornideszofficial@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=1" alt="gmail" height="50" width="50" /></a>
 
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
