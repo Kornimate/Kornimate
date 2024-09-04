@@ -12,7 +12,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,html,css,js,py,redis,sqlite,bootstrap,mysql,mongodb,firebase,dynamodb,postgres,nodejs,express,react,redux,materialui,jquery,d3,flask,fastapi,graphql,aws,azure,docker,kubernetesgit,github,gitlab,windows,linux,ubuntu,visualstudio,vscode,atom,sublime,npm,powershell,figma,postman,&perline=15" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,html,css,js,py,redis,sqlite,bootstrap,mysql,mongodb,firebase,dynamodb,postgres,nodejs,express,react,redux,materialui,jquery,d3,flask,fastapi,graphql,aws,azure,docker,kubernetes,git,github,gitlab,windows,linux,ubuntu,visualstudio,vscode,atom,sublime,npm,powershell,figma,postman&perline=15" />
   </a>
 </p>
 
