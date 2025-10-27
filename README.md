@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Máté!;I'm+an+AI+Engineer...;I'm+also+Software+Developer;Web+and+Desktop+...;and+I'm+a+proud+Hungarian;+Currently+in+Denmark)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Máté!;I'm+an+AI+Engineer...;I'm+also+Software+Developer;Web+and+Desktop+...;and+I'm+a+proud+Hungarian;+Currently+in+Denmark!)](https://git.io/typing-svg)
 
 </div>
 
